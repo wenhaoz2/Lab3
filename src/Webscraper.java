@@ -3,7 +3,14 @@ import java.net.URL;
 import java.util.Scanner;
 public class Webscraper {
     public static void main(String[] args) {
-
+        String[] url;
+        urlToString(http://erdani.com/tdpl/hamlet.txt);
+        for (int i = 0; i < url.length; i++) {
+            int c = 0;
+            if (url[i] == "Prince") {
+                c++;
+            }
+        }
         }
     /**
      * Retrieve contents from a URL and return them as a string.
